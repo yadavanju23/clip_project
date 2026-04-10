@@ -1,0 +1,9 @@
+﻿torch
+torchvision
+faiss-cpu
+pillow
+numpy
+fastapi
+uvicorn
+python-multipart
+pytest
